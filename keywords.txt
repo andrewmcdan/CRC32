@@ -1,0 +1,2 @@
+CRC32	KEYWORD1
+crc_string	KEYWORD2
